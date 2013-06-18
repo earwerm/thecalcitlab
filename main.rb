@@ -15,9 +15,9 @@ if user_input == '1'
 	user_input = gets.chomp
 
 elsif user_input == '2'
-	puts "e exponential"
-	puts "p to the power"
-	puts "sr square root"
+	puts "sqd squared"
+	puts "pwr to the power"
+	puts "sqr square root"
 
 	user_input = gets.chomp
 
